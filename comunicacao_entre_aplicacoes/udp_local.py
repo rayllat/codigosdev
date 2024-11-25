@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 ## ---------- AULA DE COMUNICACAO ENTRE APLICACOES ------------------------
+### Cliente e servidor que envia e recebe comunicacao via udp
 # Para rodar o codigo, da o comando em dois terminais diferentes: 
 # python .\udp_local.py servidor
 # python .\udp_local.py cliente
